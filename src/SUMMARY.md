@@ -3,6 +3,12 @@
 # Castiar
 
 - [Древнегреческие мемы](./greek_memes/SUMMARY.md)
+  - [Мем о Сизифе](./greek_memes/sisyphus.md)
+  - [Мем об Орфее](./greek_memes/orpheus.md)
+  - [Мем о Геракле (часть 1)](./greek_memes/hercules_1.md)
+  - [Мем о Геракле (часть 2)](./greek_memes/hercules_2.md)
+  - [Мем о Геракле (часть 3)](./greek_memes/hercules_3.md)
+  - [Мем о Прометее](./greek_memes/prometheus.md)
   - [Мем об аргонавтах (часть 1)](./greek_memes/argonauts_1.md)
   - [Мем об аргонавтах (часть 2)](./greek_memes/argonauts_2.md)
   - [Мем об аргонавтах (часть 3)](./greek_memes/argonauts_3.md)
